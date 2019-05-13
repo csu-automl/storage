@@ -5,7 +5,7 @@ module.exports = {
       script: 'bin/www',
       env: {
         watch: true,
-        PORT: 3000,
+        PORT: 3001,
         NODE_ENV: 'development'
       },
       env_production: {
