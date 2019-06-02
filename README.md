@@ -21,12 +21,12 @@ yarn global add pm2
 # install dependencies
 yarn
 
-# start auth service using development settings
+# start Storage service using development settings
 pm2 start ecosystem.config.js
 
-# start auth service using production settings
+# start Storage service using production settings
 pm2 start ecosystem.config.js --env production
 
-# stop auth service
+# stop Storage service
 pm2 stop ecosystem.config.js
 ```
