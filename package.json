@@ -8,7 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "async": "^2.6.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "config": "^3.0.1",
     "cors": "^2.8.5",
     "joi": "^14.3.1",
